@@ -1,0 +1,16 @@
+platform:ios,'8.0'
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'MJExtension'
+pod 'NJKWebViewProgress'
+pod 'OpenShare'
+pod "GTMBase64"
+#pod 'LKDBHelper'
+pod 'FMDB'
+pod "KRVideoPlayer"
+
+
